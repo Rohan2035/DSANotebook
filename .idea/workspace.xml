@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bca91234-b89a-470d-9b5a-7b10545c7e94" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2H663KmY19uiMjYqd77K3hJWJBp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rohan_wnlz3pl\Desktop\Goal_2021\45_Days_DSA_Roadmap\DSA-Notebook\src\com\dsa\hashmaps" />
+      <recent name="C:\Users\rohan_wnlz3pl\Desktop\Goal_2021\45_Days_DSA_Roadmap\DSA-Notebook\src\com\dsa\strings" />
+      <recent name="C:\Users\rohan_wnlz3pl\Desktop\Goal_2021\45_Days_DSA_Roadmap\DSA-Notebook\src\com\dsa\stacksandqueues" />
+      <recent name="C:\Users\rohan_wnlz3pl\Desktop\Goal_2021\45_Days_DSA_Roadmap\DSA-Notebook\src\com\dsa\linkedlist" />
+      <recent name="C:\Users\rohan_wnlz3pl\Desktop\Goal_2021\45_Days_DSA_Roadmap\DSA-Notebook\src\com\dsa\arrays" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.LongestCommonPrefix">
+    <configuration name="ContainerWithMostWater" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.arrays.ContainerWithMostWater" />
+      <module name="DSA-Notebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsa.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LengthOfLongestSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.strings.LengthOfLongestSubstring" />
+      <module name="DSA-Notebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsa.strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.strings.LongestCommonPrefix" />
+      <module name="DSA-Notebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsa.strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RedBlueGreen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.arrays.RedBlueGreen" />
+      <module name="DSA-Notebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsa.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseLinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dsa.linkedlist.ReverseLinkedList" />
+      <module name="DSA-Notebook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsa.linkedlist.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LongestCommonPrefix" />
+        <item itemvalue="Application.LengthOfLongestSubstring" />
+        <item itemvalue="Application.ContainerWithMostWater" />
+        <item itemvalue="Application.ReverseLinkedList" />
+        <item itemvalue="Application.RedBlueGreen" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bca91234-b89a-470d-9b5a-7b10545c7e94" name="Default Changelist" comment="" />
+      <created>1667592985700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667592985700</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="2" key="#Project_Structure" timestamp="1675883311355">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="2" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1675883311355" />
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser" timestamp="1670248354692">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="50" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1670248354692" />
+    <state x="492" y="233" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1675883139142">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="492" y="233" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.680@0.0.1280.680" timestamp="1675883139142" />
+    <state x="335" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1671450101646">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="335" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1280.680@0.0.1280.680" timestamp="1671450101646" />
+    <state x="421" y="98" key="FileChooserDialogImpl" timestamp="1675883275998">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1675883275998" />
+    <state width="1241" height="204" key="GridCell.Tab.0.bottom" timestamp="1672134104384">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1241" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1672134104384" />
+    <state width="1241" height="204" key="GridCell.Tab.0.center" timestamp="1672134104384">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1241" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1672134104384" />
+    <state width="1241" height="204" key="GridCell.Tab.0.left" timestamp="1672134104384">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1241" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1672134104384" />
+    <state width="1241" height="204" key="GridCell.Tab.0.right" timestamp="1672134104384">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1241" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1672134104384" />
+    <state width="1241" height="204" key="GridCell.Tab.1.bottom" timestamp="1672134104385">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1241" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1672134104385" />
+    <state width="1241" height="204" key="GridCell.Tab.1.center" timestamp="1672134104384">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1241" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1672134104384" />
+    <state width="1241" height="204" key="GridCell.Tab.1.left" timestamp="1672134104384">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1241" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1672134104384" />
+    <state width="1241" height="204" key="GridCell.Tab.1.right" timestamp="1672134104384">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1241" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1672134104384" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1669538660473">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1669538660473" />
+  </component>
+</project>
