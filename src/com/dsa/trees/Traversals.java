@@ -40,8 +40,8 @@ public class Traversals {
         if(root != null) {
 
             postOrder(root.left);
-            list.add(root.data);
             postOrder(root.right);
+            list.add(root.data);
 
         }
 
